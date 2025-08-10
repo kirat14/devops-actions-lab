@@ -17,4 +17,4 @@ jobs:
       - name: Simulated tests
         run: |
           echo "Running tests"
-          exit 0
+          exit 1
